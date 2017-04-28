@@ -1,6 +1,6 @@
 # Changelog
 
-## 3.5.0.1 Unreleased
+## 3.5.0.1 Unreleased 2017-04-28
 
 * new
   * Experimental Rails 5.1 support
